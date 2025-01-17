@@ -19,10 +19,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure account
-- Basic knowledge of IIS
 - Remote Desktop access
 - osTicket installation files
-- HeidiSQL
+  
 
 <h2>Installation Steps</h2>
 
