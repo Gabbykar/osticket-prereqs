@@ -168,16 +168,35 @@ hiuwdjowdpwqpewqpoewoiwiwjkwsmjs
   - **World Wide Web Services** -> **Application Development Features** -> [X] CGI
 
 <p>
-<img src="https://i.imgur.com/Htr4j9h.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/20adcc71-824b-4e37-9a50-8bcafc1d901c'/>
+
 </p>
+kjjlll;;l;''[j09nnoin09m9
 
 <p>
-<img src="https://i.imgur.com/4Q1PaOl.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/6509b145-284c-4cdf-a75e-8a2720c46427"/>
+
 </p>
+jjoi[pp[[khcrtyg7
 
 <p>
-<img src="https://i.imgur.com/cm20H8J.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/ffedecac-bff0-4ccf-ae8f-6df93a9feb61'/>
+
 </p>
+jg;oripweoor[4wprpewlrwep
+
+<p>
+<img src="https://github.com/user-attachments/assets/09db49ed-03b1-409d-a5a9-815871603185"/>
+  
+</p>
+uewbexiuoqiiburcieriuweyrnecrb
+
+<p>
+<img src="https://github.com/user-attachments/assets/248854ee-0d68-4ff5-acea-3dcdc2c3b156"/>
+  
+</p>
+iuerucn4n43i44moidjewio3p,x.
+
 
 <h3>5.) Install Required Components</h3>
 
