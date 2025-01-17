@@ -296,7 +296,8 @@ oi3uc9im4032c0213c12jhfuwruweu
 
 <p>
 
-<img src="https://github.com/user-attachments/assets/203c1dd1-e03b-4b2d-9ff6-966ffec46c88"/>
+<img src="https://github.com/user-attachments/assets/c5586e32-87fa-4a41-9602-cb5ffe666f80"/>
+
 
 
 
@@ -310,7 +311,12 @@ oi3uc9im4032c0213c12jhfuwruweu
     - `php_opcache.dll`
 
 <p>
-<img src="https://i.imgur.com/3w4E5N7.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/4ea3f01f-e3ec-43c6-acb6-c0e4704f6718"/>
+
+</p>
+<img src="https://github.com/user-attachments/assets/7426e7f5-74ec-4dac-bd92-f70046ef512c"/>
+
+
 </p>
 
 <h3>11.) Update Configuration Files</h3>
@@ -323,11 +329,13 @@ oi3uc9im4032c0213c12jhfuwruweu
   - Add new permissions -> **Everyone** -> **Full control**.
 
 <p>
-<img src="https://i.imgur.com/18W6jYt.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/f3560ce5-4ce5-4a8f-9b2f-5d7c5e12e6d5"/>
+/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/Gj686F9.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/946ec582-b59d-4861-af5e-cb6f6b78b8cd"/>
+
 </p>
 
 <h3>12.) Complete osTicket Setup</h3>
@@ -337,7 +345,8 @@ oi3uc9im4032c0213c12jhfuwruweu
   - Set **Default email** (receives emails from customers).
 
 <p>
-<img src="https://i.imgur.com/lFfXfPa.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/f8461587-915c-4cd7-8581-81480583250d"/>
+
 </p>
 
 <h3>13.) Install HeidiSQL and Configure Database</h3>
@@ -349,12 +358,17 @@ oi3uc9im4032c0213c12jhfuwruweu
   - Create a database named `osTicket`.
 
 <p>
-<img src="https://i.imgur.com/3MktR5j.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+<img src="https://github.com/user-attachments/assets/e8caa8f4-2f19-4c76-bf39-0eb087e45a83"/>
+
 
 <p>
-<img src="https://i.imgur.com/45BnPbc.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+<img src="https://github.com/user-attachments/assets/2eb699e5-1e1f-45b7-8ceb-b34b6c9c248"/>
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/88505ac5-1152-4b0e-b111-6af4e78f3d12"/>
+
+
 
 <h3>14.) Finalize osTicket Installation</h3>
 
@@ -365,7 +379,8 @@ oi3uc9im4032c0213c12jhfuwruweu
 - Click **Install Now!**
 
 <p>
-<img src="https://i.imgur.com/niqOpoY.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/cde82043-950a-4357-b186-a324954def87"/>
+
 </p>
 
 <h3>15.) Verify Installation</h3>
@@ -373,7 +388,8 @@ oi3uc9im4032c0213c12jhfuwruweu
 - Access your help desk login page: `http://localhost/osTicket/scp/login.php`.
 
 <p>
-<img src="https://i.imgur.com/fsadUTz.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/925bb6fb-828e-4a0f-a8d3-be88f67b1350"/>
+
 </p>
 
 <h2>Conclusion</h2>
