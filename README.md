@@ -46,27 +46,27 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   
 kaksaksadsdoisjdsajdkfk
 <p>
-<img src=![image](https://github.com/user-attachments/assets/b250bed8-699c-40c4-82aa-d6829dc1d2a9)
+<img src="https://github.com/user-attachments/assets/b250bed8-699c-40c4-82aa-d6829dc1d2a9"/)
 </p>
 
 nduihfoekjiewjfewkfoewjfjewi
 <p>
-<img src=![image](https://github.com/user-attachments/assets/71d3e404-bdb2-4c4a-be2d-716f20b4ebf4)
+<img src="https://github.com/user-attachments/assets/71d3e404-bdb2-4c4a-be2d-716f20b4ebf4"/)
 </p>
 
 dbjdejduehfmfuhdfufjeu
 <p>
-<img src=![image](https://github.com/user-attachments/assets/a4211678-ea8a-496e-9dcd-7678c2b92c35)
+<img src="https://github.com/user-attachments/assets/a4211678-ea8a-496e-9dcd-7678c2b92c35"/)
 </p>
 
 shdiwdwqiwicerijikperogkirejgriekg
 <p>
-<img src=![image](https://github.com/user-attachments/assets/b14e9993-5c26-4baf-ae65-7f26babb349f)
+<img src="https://github.com/user-attachments/assets/b14e9993-5c26-4baf-ae65-7f26babb349f"/)
 </p>
 
 duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 <p>
-<img src=![image](https://github.com/user-attachments/assets/57840a92-0e8f-45a3-b8c3-d666875d4338)
+<img src="https://github.com/user-attachments/assets/57840a92-0e8f-45a3-b8c3-d666875d4338"/)
 </p>
 
 
