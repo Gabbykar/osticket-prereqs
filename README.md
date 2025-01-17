@@ -200,7 +200,7 @@ iuerucn4n43i44moidjewio3peuifweo
   - Install **Rewrite Module**: `rewrite_amd64_en-US.msi`.
  
 <p>
-<img src="https://i.imgur.com/TmRwTh9.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/9e7b81a6-ccb0-4fd2-a8d4-4d696656f059"/>
 </p>
 
 <h3>6.) Setup PHP</h3>
