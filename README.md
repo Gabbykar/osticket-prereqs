@@ -32,9 +32,14 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 
 - **VM Name:** osticket-vm  
 - **Image:** Windows 10 Pro, version 22H2 - x64 Gen2  
-- **Size:** 2 vCPUs, 8 GiB memory  
+- **Size:** 2 vCPUs, 8 GiB memory
+
+  
 
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
+
+
+
 
 <p>
 <img src=(https://github.com/user-attachments/assets/4beec4b3-d88f-47d0-ab62-fb6914c579cb)
