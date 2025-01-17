@@ -19,7 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure account
-- Remote Desktop access
+- Remote Deskt![image](https://github.com/user-attachments/assets/9c578c67-440a-495e-97fe-7fe079657310)
+op access
 - osTicket installation files
   
 
@@ -42,9 +43,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <p>
 <img src=![image](https://github.com/user-attachments/assets/b250bed8-699c-40c4-82aa-d6829dc1d2a9)
 
+
 </p>
 <img src=![image](https://github.com/user-attachments/assets/71d3e404-bdb2-4c4a-be2d-716f20b4ebf4)
-
 
 
 </p>
@@ -57,8 +58,6 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 </p>
 <img src=![image](https://github.com/user-attachments/assets/57840a92-0e8f-45a3-b8c3-d666875d4338)
-
-
 
 
 
