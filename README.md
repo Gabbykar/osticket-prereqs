@@ -41,37 +41,37 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/4beec4b3-d88f-47d0-ab62-fb6914c579cb"/)
+<img src="https://github.com/user-attachments/assets/4beec4b3-d88f-47d0-ab62-fb6914c579cb"/>
   
 </p>
 
 duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 <p>
-<img src="https://github.com/user-attachments/assets/b250bed8-699c-40c4-82aa-d6829dc1d2a9"/)
+<img src="https://github.com/user-attachments/assets/b250bed8-699c-40c4-82aa-d6829dc1d2a9"/>
 
 </p>
 
 duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 <p>
-<img src="https://github.com/user-attachments/assets/71d3e404-bdb2-4c4a-be2d-716f20b4ebf4"/)
+<img src="https://github.com/user-attachments/assets/71d3e404-bdb2-4c4a-be2d-716f20b4ebf4"/>
 
 </p>
 
 duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 <p>
-<img src="https://github.com/user-attachments/assets/a4211678-ea8a-496e-9dcd-7678c2b92c35"/)
+<img src="https://github.com/user-attachments/assets/a4211678-ea8a-496e-9dcd-7678c2b92c35"/>
 
 </p>
 
 shdiwdwqiwicerijikperogkirejgriekg
 <p>
-<img src="https://github.com/user-attachments/assets/b14e9993-5c26-4baf-ae65-7f26babb349f"/)
+<img src="https://github.com/user-attachments/assets/b14e9993-5c26-4baf-ae65-7f26babb349f"/>
 
 </p>
 
 duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 <p>
-<img src="https://github.com/user-attachments/assets/57840a92-0e8f-45a3-b8c3-d666875d4338"/)
+<img src="https://github.com/user-attachments/assets/57840a92-0e8f-45a3-b8c3-d666875d4338"/>
   
 </p>
 
@@ -86,8 +86,35 @@ duefujewfijweufjpweokfowerpokwvu3q9nqwpve=eqw
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup.
 
 <p>
-<img src="https://i.imgur.com/8IdvRmZ.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/bfb6429e-2e8d-41a7-8ead-4636a56769b5"/>
+
 </p>
+
+efpigjirokgrijrkreiwerijkr
+<p>
+<img src="https://github.com/user-attachments/assets/e6e67801-b997-4823-8e68-cb8890cad620"/>
+
+</p>
+akpqkwkqpokowqwqooekdjdj
+
+<p>
+<img src="https://github.com/user-attachments/assets/115bc06b-f77a-4369-a7cf-0a1a74a95c9c"/>
+
+</p>
+jnuwerjrwroiwekprokeworperp
+
+<p>
+<img src="https://github.com/user-attachments/assets/07fed4f7-fd0c-49e0-8c17-7ec8027243d9"/>
+
+</p>
+jdnoeijdioewjfewfkokidkjf
+
+<p>
+<img src="https://github.com/user-attachments/assets/dc7e6810-94ea-4149-974c-c3c1fb8154c5"/>
+
+</p>
+
+hgkpogkdokgosfskdfojjkj
 
 <h3>3.) Download and Prepare Installation Files</h3>
 
