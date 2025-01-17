@@ -263,11 +263,13 @@ oi3uc9im4032c0213c12jhfuwruweu
 - Reload IIS (Stop and Start the server).
 
 <p>
-<img src="https://i.imgur.com/QAGjmly.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/4f9204cb-aff7-4038-9bec-12d0fb7d7a63"/>
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/UNeiP4j.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/f1ff496e-6972-4ae3-8661-4cc6fd662657"/>
+
 </p>
 
 <h3>10.) Configure osTicket</h3>
@@ -277,12 +279,27 @@ oi3uc9im4032c0213c12jhfuwruweu
   - On the right, click **Browse *:80**.
 
 <p>
-<img src="https://i.imgur.com/Vo85YbB.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/088addaf-533f-4a69-8b9a-0e841c57d5ed"/>
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/oM0muFz.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/592500a5-ad12-43e7-b226-cf50f917aca8"/>
+
 </p>
+
+<p>
+  
+<img src="https://github.com/user-attachments/assets/f43e6564-309f-4961-8c5a-4f655f618666"/>
+
+</p>
+
+<p>
+
+<img src="https://github.com/user-attachments/assets/203c1dd1-e03b-4b2d-9ff6-966ffec46c88"/>
+
+
+
 
 - Note extensions that are not enabled. Go back to IIS:
   - Navigate to **Sites** -> **Default** -> **osTicket**.
