@@ -233,7 +233,8 @@ oi3uc9im4032c0213c12jhfuwruweu
     - Input a username and password, don't forget this!
 
 <p>
-<img src="https://i.imgur.com/m5NO1HX.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/d03588c4-600f-4dc1-b6d0-9597343d04e5"/>
+
 </p>
 
 <h3>8.) Configure IIS</h3>
@@ -244,11 +245,13 @@ oi3uc9im4032c0213c12jhfuwruweu
 - Reload IIS (Stop and Start the server).
 
 <p>
-<img src="https://i.imgur.com/m5NO1HX.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/b89714b5-e336-4ed0-bc81-a3e6df2ff893"/>
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/OPR6ELG.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/eaecd813-b200-42c7-989f-4826599a7545"/>
+
 </p>
 
 <h3>9.) Install osTicket</h3>
