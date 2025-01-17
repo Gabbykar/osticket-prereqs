@@ -19,9 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure account
-- Remote Deskt![image](https://github.com/user-attachments/assets/9c578c67-440a-495e-97fe-7fe079657310)
-op access
+- Virtual Machines
+- Remote Desktop
 - osTicket installation files
+- SQL
   
 
 <h2>Installation Steps</h2>
@@ -37,8 +38,6 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
   
 
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
-
-
 
 
 <p>
