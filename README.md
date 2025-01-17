@@ -41,7 +41,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 
 <p>
-<img src=(https://github.com/user-attachments/assets/4beec4b3-d88f-47d0-ab62-fb6914c579cb)
+<img src="https://github.com/user-attachments/assets/4beec4b3-d88f-47d0-ab62-fb6914c579cb"/)
 </p>
   
 kaksaksadsdoisjdsajdkfk
