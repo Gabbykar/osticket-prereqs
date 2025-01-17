@@ -121,8 +121,39 @@ hgkpogkdokgosfskdfojjkj
 - Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop. The folder should be named `osTicket-Installation-Files`.
 
 <p>
-<img src="https://i.imgur.com/6imV7Hy.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/591d028b-1f25-4dbd-9ec4-10c0652780ce"/>
+
 </p>
+hguijioakjeuqwjiwqndjejhdiuwq
+
+<p>
+<img src="https://github.com/user-attachments/assets/52b54394-07e9-4d50-b2fc-1001386df152"/>
+
+</p>
+
+edfheuwidweufoweijfdiwejfewujd
+
+<p>
+<img src="https://github.com/user-attachments/assets/41c3522f-9c8b-4541-998c-5fe38a426d49"/>
+
+</p>
+joedhwqoije3qopriweir4weirkewir9
+
+<p>
+<img src="https://github.com/user-attachments/assets/0942ff1a-4822-4d95-816c-31aa0342aace"/>
+
+</P>
+wieuwurwer8weuewrw9r9wedkdi
+
+<p>
+<img src="https://github.com/user-attachments/assets/ad6d4c7c-ce65-47b3-a218-5356f4750978"/>
+
+</p>
+oieuweur0weirw3iru348r43i9
+
+
+
+
 
 <h3>4.) Install IIS and Enable Required Features</h3>
 
