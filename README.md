@@ -210,12 +210,19 @@ iuerucn4n43i44moidjewio3peuifweo
 - Install `VC_redist.x86.exe`.
 
 <p>
-<img src="https://i.imgur.com/Khwf0Tv.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/08218ce4-6304-4da4-aa56-5940fc8acaea"/>
+
 </p>
+dijkpodpeopowoqwopewqopop
 
 <p>
-<img src="https://i.imgur.com/0IRX6FM.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://github.com/user-attachments/assets/8be6d90e-ac01-48df-b554-a5e4a2a90ea5"/>
+
 </p>
+oi3uc9im4032c0213c12jhfuwruweu
+
+
+
 
 <h3>7.) Install MySQL</h3>
 
